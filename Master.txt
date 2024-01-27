@@ -6,3 +6,7 @@
 <Version: 1.11>
 /data/Map002.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map002.json
 <End of Version>
+
+<Version: 1.12>
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+<End of Version>
