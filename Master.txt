@@ -16,5 +16,5 @@
 /data/Map002.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map002.json
 <End of Version>
 
-<Version: B.1.0>
+<Version: B.1.7>
 <End of Version>
