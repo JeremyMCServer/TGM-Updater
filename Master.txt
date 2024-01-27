@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-/data/tmg.zip https://wordpress.org/latest.zip
+<Version: 1.10>
+/data/Map002.json
 <End of Version>
