@@ -17,4 +17,5 @@
 <End of Version>
 
 <Version: B.1.7>
+/data/System.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/System.json
 <End of Version>
