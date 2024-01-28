@@ -14,5 +14,4 @@
 <End of Version>
 
 <Version: 1.04>
-/data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
 <End of Update>
