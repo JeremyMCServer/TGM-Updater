@@ -8,3 +8,7 @@
 /data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
 /data/Enemies.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Enemies.json
 <End of Version>
+
+<Version: 1.03>
+/data/Mapp008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
+<End of Version>
