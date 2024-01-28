@@ -14,4 +14,7 @@
 <End of Version>
 
 <Version: 1.04>
+/data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
+/data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
+/data/Enemies.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Enemies.json
 <End of Update>
