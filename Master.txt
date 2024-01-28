@@ -21,10 +21,4 @@
 
 <Version: 1.05>
 /data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
-/data/Map002.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map002.json
-/date/Map004.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map004.json
-/data/Map006.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map006.json
-/data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
-/data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
-/data/Troops.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Troops.json
 <End of Version>
