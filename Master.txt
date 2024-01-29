@@ -18,7 +18,3 @@
 /data/Enemies.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Enemies.json
 /data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
 <End of Version>
-
-<Version: 1.05>
-/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
-<End of Version>
