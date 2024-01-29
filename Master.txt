@@ -25,5 +25,5 @@
 <End of Version>
 
 <Version: 1.06>
-/date/Map004.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map004.json
+/data/Troops.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Troops.json
 <End of Version>
