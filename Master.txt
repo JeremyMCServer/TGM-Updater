@@ -27,5 +27,9 @@
 /data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
 /data/Map007.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map007.json
 /data/Map006.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map006.json
-/data/Map005.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map005.json
+<End of Version>
+
+<Version: 1.06>
+/data/Map005.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map005.json
 <End of Version>
