@@ -33,3 +33,8 @@
 <Version: 1.06>
 /data/Map005.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map005.json
 <End of Version>
+
+<Version: 1.07>
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+/data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
+<End of Version>
