@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":3178,"scrollY":1376},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":1,"scrollX":1638,"scrollY":922},
+{"id":3,"expanded":true,"name":"MAP003_Cave","order":3,"parentId":1,"scrollX":1638,"scrollY":922},
+{"id":4,"expanded":true,"name":"Landweg","order":4,"parentId":1,"scrollX":1722,"scrollY":906},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":4,"scrollX":1638,"scrollY":922},
+{"id":6,"expanded":false,"name":"Cave","order":8,"parentId":4,"scrollX":1622,"scrollY":1958},
+{"id":7,"expanded":false,"name":"Cave-Labirint","order":6,"parentId":5,"scrollX":3178,"scrollY":3866},
+{"id":8,"expanded":false,"name":"Shop","order":7,"parentId":5,"scrollX":1638,"scrollY":922},
+{"id":9,"expanded":false,"name":"Map-Weg_zur_cave","order":9,"parentId":1,"scrollX":1638,"scrollY":922}
+]
