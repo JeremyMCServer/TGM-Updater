@@ -68,3 +68,7 @@
 <Version: 1.09>
 /data/System.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/System.json
 <End of Version>
+
+<Version: 1.10>
+/data/System.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/System.json
+<End of Version>
