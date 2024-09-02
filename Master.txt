@@ -64,7 +64,3 @@
 /data/Troops.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Weapons.json
 <End of Version>
-
-<Version: 1.09>
-/icon/icon.png https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/icon.png
-<End of Version>
