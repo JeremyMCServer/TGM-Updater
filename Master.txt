@@ -99,3 +99,11 @@
 /data/Map009.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map009.json
 /data/MapInfos.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/MapInfos.json
 <End of Version>
+
+<Version: 1.14>
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+/data/Actors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Actors.json
+/data/System.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/System.json
+/data/Classes.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Classes.json
+/data/Skills.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Skills.json
+<End of Version>
