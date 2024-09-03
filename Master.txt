@@ -83,3 +83,19 @@
 <Version: 1.12>
 /data/Map007.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map007.json
 <End of Version>
+
+<Version: 1.13>
+/data/Actors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Actors.json
+/data/System.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/System.json
+/data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
+/data/Weapons.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Classes.json
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+/data/Map003.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map004.json
+/data/Map007.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map009.json
+/data/MapInfos.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/MapInfos.json
+<End of Version>
