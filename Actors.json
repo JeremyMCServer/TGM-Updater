@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[1,0,0,0,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gulgazor","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Denize","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Denize","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dragonfire","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Actor3","classId":4,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hulz","nickname":"","note":"","profile":""}
 ]
