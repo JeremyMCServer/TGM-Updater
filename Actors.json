@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":90,"name":"Gulgazor","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[1,0,0,0,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gulgazor","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,0,0,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Denize","nickname":"","note":"","profile":""}
 ]
