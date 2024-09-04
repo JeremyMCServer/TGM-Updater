@@ -158,3 +158,9 @@
 /data/Map009.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map009.json
 /data/MapInfos.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/MapInfos.json
 <End of Version>
+
+<Version: 1.24>
+/data/Armors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Armors.json
+/data/Weapons.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Weapons.json
+/data/Items.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Items.json
+<End of Version>
