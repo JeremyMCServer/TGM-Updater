@@ -135,3 +135,7 @@
 <Version: 1.20>
 /data/Armors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Armors.json
 <End of Version>
+
+<Version: 1.21>
+/data/Armors.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Armors.json
+<End of Version>
