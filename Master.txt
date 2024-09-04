@@ -118,3 +118,7 @@
 /data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
 /data/Classes.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Classes.json
 <End of Version>
+
+<Version: 1.17>
+/data/Skills.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Skills.json
+<End of Version>
