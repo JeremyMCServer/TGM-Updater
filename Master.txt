@@ -127,7 +127,7 @@
 /data/Enemies.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Enemies.json
 <End of Version>
 
-<Vesion: 1.19>
+<Version: 1.19>
 /data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
 /data/Map009.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map009.json
 /data/MapInfos.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/MapInfos.json
