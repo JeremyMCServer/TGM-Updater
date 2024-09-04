@@ -122,3 +122,7 @@
 <Version: 1.17>
 /data/Skills.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Skills.json
 <End of Version>
+
+<Version: 1.18>
+/data/Enemies.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Enemies.json
+<End of Version>
