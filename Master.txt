@@ -113,3 +113,8 @@
 /data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
 /data/Weapons.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Weapons.json
 <End of Version>
+
+<Version: 1.16>
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+/data/Classes.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Classes.json
+<End of Version>
