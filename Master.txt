@@ -107,3 +107,9 @@
 /data/Classes.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Classes.json
 /data/Skills.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Skills.json
 <End of Version>
+
+<Version: 1.15>
+/data/Map001.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map001.json
+/data/Map008.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Map008.json
+/data/Weapons.json https://raw.githubusercontent.com/JeremyMCServer/TGM-Updater/main/Weapons.json
+<End of Version>
